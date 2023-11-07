@@ -1,4 +1,4 @@
 # implementacaoGrafo
 
-#####Nome: Bruno Garcia Baricelo RA:2410265
+##### nome: Bruno Garcia Baricelo RA:2410265
 
